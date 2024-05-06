@@ -21,4 +21,4 @@ Topic modeling is a method for discovering abstract topics present in a collecti
 
 ---
 
-This repository serves as a resource for conducting text mining analyses on comments from employees and customers. Feel free to explore the code and adapt it to your own text mining tasks. If you have any questions or suggestions, please don't hesitate to reach out.
+This repository serves as a resource for conducting text mining analyses on comments from employees and customers. Feel free to explore the code and adapt it to your own text mining tasks. If you have any questions or suggestions, don't hesitate to reach out.
