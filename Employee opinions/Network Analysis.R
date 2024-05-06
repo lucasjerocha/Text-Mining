@@ -89,3 +89,4 @@ centrality %>% select(degree) %>% arrange(desc(degree))
 centrality %>% select(eigenvector) %>% arrange(desc(eigenvector))
 centrality %>% select(closeness) %>% arrange(desc(closeness))
 centrality %>% select(betweenness) %>% arrange(desc(betweenness))
+
