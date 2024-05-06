@@ -158,11 +158,11 @@ count_total2  %>% arrange(desc(positive))
 count_total2  %>% arrange(desc(negative))
 
 
-### Term frequency - how frequently a word occurs in a document 
+## Term frequency - how frequently a word occurs in a document 
 
-### Inverse document frequency (idf), which decreases the weight for commonly used words and increases the weight for words that are not used very much in a collection of documents. 
+## Inverse document frequency (idf), which decreases the weight for commonly used words and increases the weight for words that are not used very much in a collection of documents. 
 
-### The statistic tf-idf is intended to measure how important a word is to a document in a collection (or corpus) of documents.
+## The statistic tf-idf is intended to measure how important a word is to a document in a collection (or corpus) of documents.
 
 # Visualizing in proportion (term frequency, tf)
 frequency <- bind_rows(
